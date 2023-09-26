@@ -1,4 +1,4 @@
-package AulasDio;
+package Bank;
 
 import java.util.Scanner;
 

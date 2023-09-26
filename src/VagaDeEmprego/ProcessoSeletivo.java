@@ -1,4 +1,4 @@
-package AulasDio;
+package VagaDeEmprego;
 
 import java.util.Scanner;
 

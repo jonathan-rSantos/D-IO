@@ -1,4 +1,4 @@
- package AulasDio;
+ package ContadorParametros;
 
  public class ParametrosInvalidosException extends Exception {
 	 public ParametrosInvalidosException(String message) {

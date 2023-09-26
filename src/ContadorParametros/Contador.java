@@ -1,4 +1,4 @@
-package AulasDio;
+package ContadorParametros;
 
 import java.util.Scanner;
 
