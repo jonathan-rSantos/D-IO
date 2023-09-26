@@ -1,4 +1,4 @@
-package candidatura;
+package AulasDio;
 
 import java.util.Scanner;
 
